@@ -52,6 +52,21 @@
     },
 
     {
+        "image_path": "image/bomboo",
+        "captions": [
+          
+        ],
+        "metadata": {
+            "species" : "",
+            "common_name" : "",
+            "family" : "",
+            "region" : "",
+            "source_urls" : [
+                
+            ]
+        }
+    },
+    {
         "image_path": "image/",
         "captions": [
           
