@@ -1,0 +1,69 @@
+[
+    {
+        "image_path": "images/amruthaballi.jpg",
+        "captions": [
+            "Leaves are simple heart shaped, very thin with long leaf",
+            "Amruthaballi traditionally used to manage fevers, infections, and digestive issues",
+            "This hearty green climber is known for its ability to boost immunity, detoxify the body",
+            "Amruthaballi with very thin long leaf, widely used in Ayurveda",
+            "Amruthaballi is a versatile addition to your diet",
+            "This herbal plant rich in antioxidants",
+            "it improves the metabolic system and flushes the toxins out of the body and helps in reducing cholesterol level",
+            "Amruthaballi is considered a blood purifier and supports liver function, aiding in the body's natural detoxification process",
+            
+        ],
+        "metadata": {
+            "species": "Tinospora Cordifolia",
+            "common_name": "Giloy","Amrita","Guduchi","Tinospora Cordifolia",
+            "family": "Menispermaceae",
+            "region": "tropical and subtropical zones of India and other areas in South and Southeast Asia, including Myanmar and Sri Lanka",
+            "source_urls": [
+                "https://farmfreshbangalore.com/products/amrutha-balli-1-bunch",
+                "https://www.1mg.com/ayurveda/giloy-24?srsltid=AfmBOoqXF-B-szCQnZXKXx4_ZvtJBx31Ao6FyMR_TWUmKbgd9t9Be8mk&wpsrc=Google+Organic+Search",
+                "https://upakarma.com/blogs/top-10-health-benefits-of-giloy-giloy-uses/",
+                "https://healthybuddha.in/blog/magazine-blog/greens-series-amruthabali#:~:text=Amruthaballi%2C%20also%20known%20as%20Gilroy%2C%20is%20a,with%20water%20and%20honey%20and%20consuming%20orally**",
+                
+            ]
+        }
+    },
+    {
+        "image_path": "image/asthma_weed",
+        "captions": [
+            "Asthma weed is used in the treatment of asthma and several lung related respiratory diseases",
+            " It is also consumed in herbal tea form as folk medicine for fevers in the Philippines called (tawa-tawa)",
+            "Asthma Weed (Euphorbia hirta Linn.) is an endemic plant species that is rich in phytochemicals",
+            "It is often used traditionally for female disorders, particularly for dengue fever and malaria",
+            "it also cause  worm infestations in children, dysentery, jaundice, pimples, gonorrhea, digestive problems, and tumors",
+            "These leaves are dark green or yellow reddish with purplish markings",
+            "its flowers are arranged into dense rounded clusters in the upper leaf forks",
+        ],
+        "metadata": {
+            "species" : "Asthma-plant",
+            "common_name" : "Euphorbia hirta","asthma weed","tawa-tawa",
+            "family" : "Euphorbiaceae",
+            "region" : "originating from the tropical regions of the Americas",
+            "source_urls": [
+                "https://weeds.brisbane.qld.gov.au/weeds/asthma-plant",
+                "https://pmc.ncbi.nlm.nih.gov/articles/PMC3249903/",
+                "https://plants.ces.ncsu.edu/plants/euphorbia-hirta/",
+                "https://www.inaturalist.org/taxa/131560-Euphorbia-hirta",
+            ]
+        }
+    },
+
+    {
+        "image_path": "image/",
+        "captions": [
+          
+        ],
+        "metadata": {
+            "species" : "",
+            "common_name" : "",
+            "family" : "",
+            "region" : "",
+            "source_urls" : [
+                
+            ]
+        }
+    },
+]
