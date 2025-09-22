@@ -77,7 +77,30 @@
         }
     },
     {
-        "image_path": "image/betel_nut",
+    "image_path": "image/betel_nut",
+    "captions": [
+        "Seed of the Areca catechu palm, commonly known as betel nut, supari or areca nut",
+        "Contains alkaloids (arecoline etc.), polyphenols, flavonoids and minerals responsible for its effects",
+        "Used traditionally in Ayurveda to aid digestion, treat worms & diarrhea, improve oral hygiene and relieve joint pain",
+        "Short-term effects: alertness, increased saliva, heightened heart rate, possible dizziness and sweating",
+        "Long-term use linked to oral ulcers, gum disease, precancerous lesions, cancers and dependence",
+        "Precautions: avoid during pregnancy, with tobacco; risk increases with dose and frequency",
+    ],
+        "metadata": {
+            "species": "Areca catechu",
+            "common_name": "Betel Nut",
+            "family": "Arecaceae (Palm family)",
+            "region": "Tropical Asia and many tropical regions; widely used in South Asia, Southeast Asia",
+            "source_urls": [
+            "https://www.drugs.com/npc/betel-nut.html",
+            "https://pharmeasy.in/blog/ayurveda-uses-benefits-and-side-effects-of-betel-nut/",
+            "https://easyayurveda.com/2017/09/28/betel-nut-areca-catechu-uses/",
+            "https://cdn.adf.org.au/media/documents/Betel-nut-drug-facts.pdf"
+            ]
+        }
+    },
+    {
+        "image_path": "image/",
         "captions": [
           
         ],
