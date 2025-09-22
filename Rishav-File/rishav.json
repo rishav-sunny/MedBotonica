@@ -50,9 +50,32 @@
             ]
         }
     },
+    {
+        "image_path": "image/bamboo",
+    "captions": [
+        "A perennial evergreen plant from the grass family with over 1,400 species worldwide",
+        "A long stick-like, non-wood plant found mostly in forests and among the fastest-growing plants",
+        "Valued in Ayurveda as Vanshalochana for balancing Kapha-Pitta and improving skin, respiratory, and metabolic health",
+        "Rich in flavonoids, amino acids, vitamins, and minerals with antioxidant, anti-inflammatory, and liver-protective benefits",
+        "A sustainable and eco-friendly resource used in construction, furniture, flooring, paper, and food",
+        "Culturally and medicinally significant across Asia, historically used in China, India, and Japan",
+    ],
+        "metadata": {
+            "species": "Bambusa arundinacea",
+            "common_name": "Bans",
+            "family": "Poaceae (Grass family)",
+            "region": "Asia, Africa, and the Americas; thrives in tropical and mountainous climates",
+            "source_urls": [
+            "https://www.1mg.com/ayurveda/bamboo-227?srsltid=AfmBOopifwslVnvWPzpGMqqkZbajvnQax7rD1fy5dyqLTxSoZIBwxgOB&wpsrc=Google+Organic+Search",
+            "https://www.sciencedirect.com/science/article/abs/pii/S037887412300034X",
+            "https://www.healthline.com/nutrition/bamboo-shoots",
+            "https://www.green.earth/blog/from-ancient-times-to-modern-day-exploring-the-many-uses-of-bamboo-in-our-daily-lives",
 
+            ]
+        }
+    },
     {
-        "image_path": "image/bomboo",
+        "image_path": "image/betel_nut",
         "captions": [
           
         ],
@@ -66,19 +89,5 @@
             ]
         }
     },
-    {
-        "image_path": "image/",
-        "captions": [
-          
-        ],
-        "metadata": {
-            "species" : "",
-            "common_name" : "",
-            "family" : "",
-            "region" : "",
-            "source_urls" : [
-                
-            ]
-        }
-    },
+
 ]
