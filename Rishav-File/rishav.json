@@ -64,7 +64,7 @@
     ],
         "metadata": {
             "species": "Bambusa arundinacea",
-            "common_name": "Bans",
+            "common_name": ["Bans"],
             "family": "Poaceae (Grass family)",
             "region": "Asia, Africa, and the Americas; thrives in tropical and mountainous climates",
             "source_urls": [
@@ -88,7 +88,7 @@
     ],
         "metadata": {
             "species": "Areca catechu",
-            "common_name": "Betel Nut",
+            "common_name": ["Betel Nut"],
             "family": "Arecaceae (Palm family)",
             "region": "Tropical Asia and many tropical regions; widely used in South Asia, Southeast Asia",
             "source_urls": [
@@ -123,6 +123,32 @@
             "https://www.stuartxchange.org/Kalpueng.html"
             ]
         }
+    },
+    {
+    "image_path": "image/galangal",
+    "captions": [
+        "Aromatic rhizome from the ginger family (Zingiberaceae), notably Alpinia galanga (greater galangal)",
+        "Rich in polyphenols and antioxidants that combat oxidative stress and may lower LDL and blood sugar",
+        "Exhibits anti-inflammatory and analgesic potential; may reduce pain in joint disorders",
+        "Has antimicrobial activity against bacteria, fungi, and parasites",
+        "Contains galangin, which shows anticancer effects in lab studies",
+        "Preliminary evidence suggests support for male fertility (sperm count and motility improvements)",
+        "Used widely in Southeast Asian cuisine for its sharp, citrusy flavor; similar but distinct from ginger",
+        "Generally safe in food amounts; high-dose use may lead to GI upset, loss of appetite or more serious effects"
+    ],
+    "metadata": {
+        "species": "Alpinia galanga (greater galangal)",
+        "common_name": "Galangal / Greater Galangal / Thai Ginger / Lengkuas",
+        "family": "Zingiberaceae",
+        "region": "Native to South and Southeast Asia; used across tropical Asia and in tropical cuisines",
+        "source_urls": [
+        "https://www.healthline.com/nutrition/galangal-root",
+        "https://www.wisdomlib.org/definition/ganigalu",
+        "https://en.wikipedia.org/wiki/Galangal",
+        "https://www.healthline.com/nutrition/galangal-root#:~:text=The%20bottom%20line,worth%20adding%20to%20your%20recipes.",
+        "https://www.health.com/galangal-benefits-8675420"
+        ]
+    }
     },
     {
         "image_path": "image/",
