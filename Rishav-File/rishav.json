@@ -151,6 +151,27 @@
     }
     },
     {
+    "image_path": "image/geranium",
+    "captions": [
+        "Aromatic leaves of *Pelargonium* species, commonly known as geraniums",
+        "Vibrant flowers ranging from white to pink to red, characteristic of geranium plants",
+        "Essential oil extracted from *Pelargonium graveolens*, known for its therapeutic properties"
+    ],
+    "metadata": {
+        "species": "Pelargonium spp.",
+        "common_names": ["Geranium", "Rose Geranium", "Pelargonium", "Cranesbill", "Storksbill"],
+        "family": "Geraniaceae",
+        "region": "Native to South Africa; widely cultivated globally",
+        "uses": [
+        "Aromatherapy",
+        "Skin care",
+        "Culinary flavoring",
+        "Traditional medicine"
+        ],
+        "safety": "Generally safe when used appropriately; always dilute essential oils before topical application and consult with a healthcare provider if pregnant, nursing, or on medication."
+    }
+    },
+    {
         "image_path": "image/",
         "captions": [
           
