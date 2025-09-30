@@ -1,6 +1,6 @@
 [
     {
-        "image_path": "images/amruthaballi.jpg",
+        "image_path": "amruthaballi.jpg",
         "captions": [
             "Leaves are simple heart shaped, very thin with long leaf",
             "Amruthaballi traditionally used to manage fevers, infections, and digestive issues",
@@ -27,7 +27,7 @@
         }
     },
     {
-        "image_path": "image/asthma_weed",
+        "image_path": "asthma_weed",
         "captions": [
             "Asthma weed is used in the treatment of asthma and several lung related respiratory diseases",
             " It is also consumed in herbal tea form as folk medicine for fevers in the Philippines called (tawa-tawa)",
@@ -51,7 +51,7 @@
         }
     },
     {
-    "image_path": "image/bamboo",
+    "image_path": "bamboo",
     "captions": [
         "A perennial evergreen plant from the grass family with over 1,400 species worldwide",
         "A long stick-like, non-wood plant found mostly in forests and among the fastest-growing plants",
@@ -77,7 +77,7 @@
         }
     },
     {
-    "image_path": "image/betel_nut",
+    "image_path": "betel_nut",
     "captions": [
         "Seed of the Areca catechu palm, commonly known as betel nut, supari or areca nut",
         "Contains alkaloids (arecoline etc.), polyphenols, flavonoids and minerals responsible for its effects",
@@ -100,7 +100,7 @@
         }
     },
     {
-    "image_path": "image/Caricature",
+    "image_path": "Caricature",
     "captions": [
         "Tropical evergreen shrub with striking variegated foliage",
         "Leaves mottled in cream, pink, chocolate or yellow over green — decorative and eye-catching",
@@ -125,7 +125,7 @@
         }
     },
     {
-    "image_path": "image/galangal",
+    "image_path": "galangal",
     "captions": [
         "Aromatic rhizome from the ginger family (Zingiberaceae), notably Alpinia galanga (greater galangal)",
         "Rich in polyphenols and antioxidants that combat oxidative stress and may lower LDL and blood sugar",
@@ -151,7 +151,7 @@
     }
     },
     {
-    "image_path": "image/geranium",
+    "image_path": "geranium",
     "captions": [
         "Aromatic leaves of *Pelargonium* species, commonly known as geraniums",
         "Vibrant flowers ranging from white to pink to red, characteristic of geranium plants",
@@ -169,6 +169,32 @@
         "Traditional medicine"
         ],
         "safety": "Generally safe when used appropriately; always dilute essential oils before topical application and consult with a healthcare provider if pregnant, nursing, or on medication."
+    }
+    },
+    {
+    "image_path": "henna",
+    "captions": [
+        "Shrub or small tree whose leaves yield a reddish-brown dye (lawsone) used for skin, hair, nails, fabrics",
+        "Used in mehndi / henna tattoos, as well as hair dyeing and ornamental dyeing",
+        "Possesses antimicrobial, anti-inflammatory, wound healing and soothing skin properties",
+        "Traditional use in skin conditions, burns, rashes, and as a topical cooling agent",
+        "Warning: adulterated “black henna” with PPD/heavy metals can cause severe allergic reactions, dermatitis",
+        "In individuals with G6PD deficiency, henna may trigger hemolytic anemia",
+        "Culturally significant: used in bridal ceremonies, festivals; one of oldest cosmetic practices",
+        "Drought-deciduous plant native to Africa/Asia, regenerating after rains"
+    ],
+    "metadata": {
+        "species": "Lawsonia inermis",
+        "common_names": ["Henna", "Mehndi", "Mignonette tree", "Egyptian privet", "Hina"],
+        "family": "Lythraceae",
+        "region": "Native to Northern Africa, Western Asia, parts of India and Australia; cultivated widely",
+        "source_urls": [
+        "https://www.britannica.com/plant/henna",
+        "https://www.webmd.com/skin-problems-and-treatments/what-is-henna",
+        "https://www.webmd.com/vitamins/ai/ingredientmono-854/henna",
+        "https://www.thelotusroomnashville.com/living-ayurveda/2017/9/25/healing-benefits-of-henna",
+        "https://growbilliontrees.com/blogs/tree-stories/mehandi-tree-the-magical-plant-behind-natural-beauty-tradition-and-healing"
+        ]
     }
     },
     {
