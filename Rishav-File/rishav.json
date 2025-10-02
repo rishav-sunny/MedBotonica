@@ -198,6 +198,33 @@
     }
     },
     {
+    "image_path": "jackfruit",
+    "captions": [
+        "One of the largest edible tree fruits (Artocarpus heterophyllus), used in both sweet and savory dishes",
+        "Rich in fiber, vitamin C, B vitamins, potassium, magnesium, and antioxidants",
+        "Phytochemicals in jackfruit exhibit antioxidant, anti-inflammatory, antimicrobial, and wound-healing effects",
+        "May help regulate blood sugar and improve glucose tolerance via unripe fruit and leaf/bark extracts",
+        "High potassium and fiber content support heart health by lowering blood pressure and LDL cholesterol",
+        "Fiber and prebiotics from flesh and seeds benefit digestion and colon health",
+        "Unripe jackfruit is used as a meat substitute; ripe fruit consumed fresh, in jams, desserts; seeds edible when cooked",
+        "Caution: potential cross-allergy with latex/birch pollen and high potassium risk in kidney disease"
+    ],
+    "metadata": {
+        "species": "Artocarpus heterophyllus",
+        "common_names": ["Jackfruit", "Jack tree", "Kattunappaal", "Panasa", "Jakfruit", "Cempedak (similar)"],
+        "family": "Moraceae",
+        "region": "Native to India; now cultivated across tropical Asia, Africa, and parts of Americas",
+        "source_urls": [
+        "https://www.webmd.com/vitamins/ai/ingredientmono-1487/jackfruit",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC6339770/",
+        "https://www.easyayurveda.com/2017/05/24/jackfruit-uses/",
+        "https://www.britannica.com/plant/jackfruit",
+        "https://www.healthline.com/nutrition/jackfruit-benefits",
+        "https://www.webmd.com/food-recipes/health-benefits-jackfruit"
+        ]
+    }
+    },
+    {
         "image_path": "image/",
         "captions": [
           
