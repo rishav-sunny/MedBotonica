@@ -225,6 +225,32 @@
     }
     },
     {
+    "image_path": "kohlrabi",
+    "captions": [
+        "A crisp, juicy cruciferous vegetable with a swollen above-ground stem (bulb) related to cabbage and broccoli",
+        "Packed with vitamin C, fiber, potassium, magnesium, and B vitamins — low in calories but high in nutrition",
+        "Contains glucosinolates, isothiocyanates, anthocyanins, and carotenoids offering antioxidant and anti-cancer benefits",
+        "Supports digestive health, fueling gut bacteria and aiding regular bowel movements",
+        "Helps regulate blood sugar and supports metabolic health due to low glycemic index and fiber content",
+        "Promotes heart health via potassium, fiber, and antioxidant compounds that support blood pressure and cholesterol levels",
+        "Versatile in the kitchen: can be eaten raw, roasted, sautéed, spiralized, or cooked with both bulb and leaves"
+    ],
+    "metadata": {
+        "species": "Brassica oleracea var. gongylodes",
+        "common_names": ["Kohlrabi", "German turnip", "Cabbage turnip", "Turnip cabbage"],
+        "family": "Brassicaceae (mustard family)",
+        "region": "Originally Europe; cultivated worldwide including Asia and North America",
+        "source_urls": [
+        "https://www.webmd.com/vitamins/ai/ingredientmono-1485/kohlrabi",
+        "https://en.wikipedia.org/wiki/Kohlrabi",
+        "https://plantvillage.psu.edu/topics/kohlrabi/infos",
+        "https://specialtyproduce.com/produce/Green_Kohlrabi_7681.php",
+        "https://www.potsandpans.in/blogs/articles/kohlrabi-health-benefits-uses-and-important-facts"
+        ]
+    }
+    },
+
+    {
         "image_path": "image/",
         "captions": [
           
