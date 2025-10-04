@@ -249,6 +249,32 @@
         ]
     }
     },
+    {
+    "image_path": "image/lemongrass",
+    "captions": [
+        "Aromatic tropical grass (Cymbopogon citratus) with lemony aroma, used widely in cooking, teas and aromatherapy",
+        "Rich in antioxidants (citral, quercetin, phenolics) that reduce inflammation and oxidative stress",
+        "Essential oil and extracts show antibacterial, antifungal and antimicrobial activity against common pathogens",
+        "Traditionally helps digestion: relieves bloating, cramps, indigestion, and may protect gastric lining",
+        "Acts as mild diuretic helping detoxification and may support blood pressure regulation",
+        "Oil and tea used for pain relief, stress reduction, dandruff management, skin health, and anti-inflammatory support",
+        "Used in soaps, candles, insect repellents, dishes and beverages for its fresh citrus flavor and scent",
+        "Consumption should be moderated; high doses or topical use may cause irritation, and pregnant/kidney patients need caution"
+    ],
+    "metadata": {
+        "species": "Cymbopogon citratus",
+        "common_names": ["Lemongrass", "Barbed wire grass", "Fever grass", "Malabar grass", "Coastal lemongrass"],
+        "family": "Poaceae (grass family)",
+        "region": "Native to Southeast Asia; cultivated in tropical and subtropical regions worldwide",
+        "source_urls": [
+        "https://www.webmd.com/diet/lemongrass-health-benefits",
+        "https://www.health.com/lemongrass-benefits-11781380",
+        "https://www.verywellfit.com/lemongrass-benefits-side-effects-and-preparations-4178847",
+        "https://www.tataaig.com/knowledge-center/health-insurance/health-benefits-of-lemongrass",
+        "https://www.indiatoday.in/visualstories/information/5-benefits-of-lemongrass-182758-19-11-2024"
+        ]
+    }
+    },
 
     {
         "image_path": "image/",
