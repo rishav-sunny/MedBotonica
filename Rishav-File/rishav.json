@@ -275,6 +275,32 @@
         ]
     }
     },
+    {
+    "image_path": "calendula",
+    "captions": [
+        "Edible and medicinal flower (Calendula officinalis), used in ointments, teas, and extracts",
+        "Contains antioxidants and anti-inflammatory compounds that help reduce oxidative stress and inflammation",
+        "Promotes wound healing, scar recovery, and reduces swelling and redness in skin injuries",
+        "Antimicrobial, antifungal, and antiviral actions useful for skin, ear canal, and mucous membrane infections",
+        "Soothes rashes, eczema, diaper dermatitis, radiation damage, and general skin irritations",
+        "Traditional use in digestive support—gastrointestinal inflammation, ulcers, and soothing internal tissues",
+        "Has antispasmodic effects relieving muscle cramps, menstrual discomfort, and smooth muscle spasms"
+    ],
+    "metadata": {
+        "species": "Calendula officinalis",
+        "common_names": ["Calendula", "Pot Marigold", "Poet's Marigold", "Garden Marigold", "English Marigold"],
+        "family": "Asteraceae (daisy family)",
+        "region": "Native to southern Europe, now cultivated worldwide in temperate climates",
+        "source_urls": [
+        "https://www.webmd.com/vitamins-and-supplements/what-health-benefits-marigold-extract-calendula",
+        "https://draxe.com/nutrition/calendula/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10492899/",
+        "https://www.healthline.com/health/calendula-oil",
+        "https://www.dovemed.com/healthy-living/natural-health/7-health-benefits-of-calendula",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3841996/"
+        ]
+    }
+    },
 
     {
         "image_path": "image/",
