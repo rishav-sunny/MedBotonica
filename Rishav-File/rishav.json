@@ -327,7 +327,32 @@
         ]
     }
     },
-    
+    {
+    "image_path": "image/onion",
+    "captions": [
+        "Globally cultivated Allium cepa containing sulfur compounds and flavonoids with diverse health benefits",
+        "Helps modulate metabolic syndrome risk factors: blood sugar, hypertension, lipid levels, and obesity",
+        "Quercetin and sulfur compounds confer strong antioxidant, anti-inflammatory, liver & kidney protection",
+        "Exhibits antimicrobial action against E. coli, H. pylori, S. aureus and supports gut microbiota via prebiotics",
+        "May improve respiratory health by reducing airway inflammation and hyperresponsiveness",
+        "Shown to have neuroprotective, immune-modulating, and reproductive support benefits in preclinical studies"
+    ],
+    "metadata": {
+        "species": "Allium cepa",
+        "common_names": ["Onion", "Bulb onion", "Garden onion", "Red onion", "Yellow onion", "White onion", "Scallion (green onion)"],
+        "family": "Amaryllidaceae",
+        "region": "Native to central Asia; now cultivated worldwide in temperate and subtropical regions",
+        "source_urls": [
+        "https://www.healthline.com/nutrition/onion-benefits",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8789449/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7894628/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10420769/",
+        "https://www.britannica.com/plant/onion-plant",
+        "https://www.webmd.com/diet/health-benefits-onions"
+        ]
+    }
+    },
+
 
 
     {
