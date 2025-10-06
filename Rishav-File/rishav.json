@@ -352,8 +352,31 @@
         ]
     }
     },
-
-
+    {
+    "image_path": "image/papaya_leaf",
+    "captions": [
+        "Leaves from *Carica papaya* tree, used traditionally in teas, extracts, and juices for medicinal purposes",
+        "Shown in studies to help increase platelet counts and alleviate symptoms in dengue fever patients",
+        "Rich in antioxidants and anti-inflammatory compounds that protect liver health and reduce oxidative stress",
+        "Contains papain and proteolytic enzymes that aid digestion, reduce heartburn and bloating",
+        "Potential support for blood sugar regulation through pancreatic protection and insulin modulation",
+        "Used topically for wound healing, skin health, and antimicrobial protection including acne and fungal infections",
+        "In vitro studies suggest papaya leaf extract may inhibit SARS-CoV-2 main proteases—potential antiviral application"
+    ],
+    "metadata": {
+        "species": "Carica papaya",
+        "common_names": ["Papaya leaf", "Pawpaw leaf", "Papaw leaf", "Carica papaya leaf"],
+        "family": "Caricaceae",
+        "region": "Native to tropical Americas; cultivated globally in tropical and subtropical regions",
+        "source_urls": [
+        "https://www.healthline.com/nutrition/papaya-leaf",
+        "https://vinmec.com/eng/blog/what-are-the-benefits-of-papaya-leaves-en",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7774798/",
+        "https://www.drugs.com/npc/papaya.html",
+        "https://www.medicalnewstoday.com/articles/275517"
+        ]
+    }
+    },
 
     {
         "image_path": "image/",
