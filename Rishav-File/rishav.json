@@ -301,6 +301,34 @@
         ]
     }
     },
+    {
+    "image_path": "image/nilavembu",
+    "captions": [
+        "Also known as Kalmegh or ‘King of Bitters’, used for immune stimulation, fever reduction, and antiviral support",
+        "Contains andrographolide, diterpenoids, flavonoids, and glycosides which contribute to anti-inflammatory and antioxidant actions",
+        "Traditionally used against dengue, malaria, chikungunya and other intermittent fevers",
+        "Supports liver health, digestion, gastric and intestinal lining protection via cholagogue and hepatoprotective properties",
+        "Exhibits hypoglycemic effects and supports heart health by reducing lipid accumulation and lowering blood pressure",
+        "Can help detoxify the blood, reduce post-fever weakness, improve appetite and treat skin disorders",
+        "Overdose risks: GI distress, vomiting, anorexia; contraindicated in pregnancy, bleeding disorders, hypotension, ulcers"
+    ],
+    "metadata": {
+        "species": "Andrographis paniculata",
+        "common_names": ["Nilavembu", "Kalmegh", "Green Chireta", "Kirayat", "Alui", "King of Bitters", "Bhui-neem"],
+        "family": "Acanthaceae",
+        "region": "Native to South and Southeast Asia; widely cultivated in tropical Asia",
+        "source_urls": [
+        "https://www.netmeds.com/health-library/post/nilavembu-benefits-uses-formulations-ingredients-method-dosage-and-side-effects",
+        "https://www.tataaig.com/knowledge-center/health-benefits-of-nilavembu",
+        "https://amcsrc.edu.in/nilavembu-a-herbal-remedy-for-fever/",
+        "https://www.herbalplantslive.com/product/nilavembu/",
+        "https://www.drugs.com/npp/andrographis.html",
+        "https://www.webmd.com/vitamins/ai/ingredientmono-973/andrographis"
+        ]
+    }
+    },
+    
+
 
     {
         "image_path": "image/",
