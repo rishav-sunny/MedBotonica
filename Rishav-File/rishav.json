@@ -377,6 +377,32 @@
         ]
     }
     },
+    {
+    "image_path": "image/pomegranate",
+    "captions": [
+        "Fruit of *Punica granatum* rich in fibers, vitamins, and powerful polyphenol antioxidants",
+        "Contains punicalagins, ellagitannins, anthocyanins, and other compounds that reduce oxidative stress and inflammation",
+        "Supports cardiovascular health by lowering blood pressure, reducing arterial plaque, and stabilizing heart tissue",
+        "Shows anti-cancer activity, especially in prostate cancer, through inhibition of tumor growth and cell proliferation",
+        "May help prevent kidney stones, support urinary health, and promote gut microbiome balance through fiber and polyphenols",
+        "Improves exercise endurance, muscle recovery, and may protect brain function via antioxidant, anti-inflammatory effects",
+        "Used in skincare for its antimicrobial, anti-aging, and UV-protective properties; may help with acne, hyperpigmentation, and wound healing",
+        "Pomegranate peel extract offers strong benefits but more human clinical research is needed for dosage and safety"
+    ],
+    "metadata": {
+        "species": "Punica granatum",
+        "common_names": ["Pomegranate", "Granate apple", "Anar", "Madrone", "Punica"],
+        "family": "Lythraceae (loosestrife family)",
+        "region": "Native to the Middle East and Mediterranean; cultivated globally in warm climates",
+        "source_urls": [
+        "https://www.healthline.com/nutrition/12-proven-benefits-of-pomegranate",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC10598818/",
+        "https://www.webmd.com/vitamins/ai/ingredientmono-392/pomegranate",
+        "https://www.healthline.com/health/heart-health/are-pomegranates-good-for-heart-health"
+        ]
+    }
+    },
+
 
     {
         "image_path": "image/",
