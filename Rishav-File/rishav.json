@@ -402,7 +402,31 @@
         ]
     }
     },
-
+    {
+    "image_path": "image/red_sandalwood",
+    "captions": [
+        "Heartwood of *Pterocarpus santalinus* (red sandalwood) used in Ayurveda for its cooling, astringent, and detoxifying properties",
+        "Exhibits antioxidant, hepatoprotective, antimicrobial, and anti-inflammatory effects useful for wounds, skin, liver, and ulcers",
+        "Traditionally used as a diuretic, expectorant, and astringent to support digestive health, reduce edema, and relieve cough",
+        "Used to purify blood, treat gastrointestinal ulcers, dysentery, bilious disorders, and internal heat conditions",
+        "Shows antidiabetic and lipid-lowering potential; research suggests anticancer activity against inflammatory mediators",
+        "Applied externally to heal wounds, soothe sunburn, acne, pigmentation, control oil, and improve skin complexion"
+    ],
+    "metadata": {
+        "species": "Pterocarpus santalinus",
+        "common_names": ["Red Sandalwood", "Rakta Chandan", "Lal Chandan", "Shivappu Chandan", "Erra Chandanam"],
+        "family": "Fabaceae (Legume family)",
+        "region": "Native to southern India (Eastern Ghats), especially Andhra Pradesh; endangered and regionally restricted",
+        "source_urls": [
+        "https://www.easyayurveda.com/2015/12/16/raktachandan-red-sandalwood-uses-research-side-effects/",
+        "https://polycareherbals.com/ingredient/raktachandan-pterocarpus-santalinus/",
+        "https://www.1mg.com/ayurveda/red-sandalwood-206",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4791987/",
+        "https://deepayurveda.in/blogs/ayurvedic-herbs/rakta-chandan-medicinal-properties-and-uses",
+        "https://thevaidyar.com/blog/rakta-chandan-medicinal-properties-and-uses"
+        ]
+    }
+    },
 
     {
         "image_path": "image/",
