@@ -427,6 +427,30 @@
         ]
     }
     },
+    {
+    "image_path": "Seethaashoka",
+    "captions": [
+        "Uterine tonic used extensively to regulate menstrual cycles, reduce heavy bleeding, and relieve pain during menstruation",
+        "Bark, flowers, and leaves offer anti-inflammatory, antioxidant, and analgesic effects useful for internal inflammation, skin, and wounds",
+        "Used as a blood purifier and liver support: detoxifies and promotes healthy skin and complexion",
+        "Supports digestion and gut health: helps with colic, diarrhea, dysentery, worms, and abdominal swelling",
+        "Shows cardioprotective properties, improves circulation, and helps with stress relief and heart-related health",
+        "Preliminary research indicates antimicrobial, antiulcer, and anti-cancer potential, especially flavonoids lowering oxidative stress"
+    ],
+    "metadata": {
+        "species": "Saraca indica (also Saraca asoca)",
+        "common_names": ["Ashoka", "Sita Ashoka", "Red Ashoka", "Asoka Tree", "King’s Ashoka", "Asokam"],
+        "family": "Fabaceae (legume/bean family) or sometimes in Caesalpiniaceae depending on classification",
+        "region": "Native to Indian subcontinent, especially found in Western Ghats and deciduous forests of India and Sri Lanka",
+        "source_urls": [
+        "https://www.easyayurveda.com/2012/12/26/ashoka-bark-saraca-indica-uses-medicial-qualities-ayurveda-details/",
+        "https://rishaayurveda.com/ashoka-plant-benefits-uses-home-remedies/",
+        "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-ashoka-tree/",
+        "https://growbilliontrees.com/blogs/tree-stories/sita-ashoka-tree-scientific-insights-modern-research-health-benefits",
+        "https://www.netmeds.com/health-library/post/ashoka-saraca-indica-uses-benefits-indications-dosage-doshas-side-effects"
+        ]
+    }
+    },
 
     {
         "image_path": "image/",
