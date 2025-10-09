@@ -451,6 +451,33 @@
         ]
     }
     },
+    {
+    "image_path": "taro",
+    "captions": [
+        "Starchy tuber (root) of *Colocasia esculenta*, widely cultivated and used as a staple carbohydrate source",
+        "High in dietary fiber and resistant starch, which support healthy digestion, blood sugar control, and gut health",
+        "Offers potassium, manganese, vitamins B6, C, and E, contributing to energy metabolism and cardiovascular support",
+        "Cooked taro leaves provide vitamins A and C, folate, iron, calcium, and antioxidants with immune and eye health support",
+        "Contains prebiotic fibers that nourish beneficial gut bacteria and may aid in weight management and cholesterol reduction",
+        "Polyphenols like quercetin in taro may offer anticancer properties; root and leaves should always be cooked due to toxic oxalates",
+        "Versatile culinary root: used in mashed preparations, fries, stews, chips, and traditional dishes across many cultures",
+        "Raw taro is toxic due to calcium oxalate crystals causing irritation—proper cooking is essential for safety"
+    ],
+    "metadata": {
+        "species": "Colocasia esculenta",
+        "common_names": ["Taro", "Arbi", "Dasheen", "Eddoe", "Kalo", "Colocasia", "Elephant Ear plant (root)"],
+        "family": "Araceae",
+        "region": "Native to Southeast Asia, cultivated globally in tropical and subtropical regions",
+        "source_urls": [
+        "https://en.wikipedia.org/wiki/Taro",
+        "https://www.healthline.com/nutrition/taro-leaves",
+        "https://www.webmd.com/diet/health-benefits-taro-root",
+        "https://www.easyayurveda.com/2020/03/27/taro-root-colocasia/",
+        "https://www.emedihealth.com/nutrition/health-benefits-taro-roots"
+        ]
+    }
+    },
+
 
     {
         "image_path": "image/",
