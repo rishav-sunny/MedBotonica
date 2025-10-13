@@ -505,6 +505,33 @@
     }
     },
 
+    {
+    "image_path": "ashoka",
+    "captions": [
+        "Bark and flowers used as uterine tonic to manage heavy bleeding, irregular cycles, fibroids, and menstrual pain",
+        "Exhibits antioxidant, anti-inflammatory, antibacterial, and antifungal actions useful in skin and systemic health",
+        "Cooling and astringent—used to reduce internal heat, burning sensations, and bleeding disorders",
+        "Used in skin conditions: eczema, psoriasis, ulcers, scabies, dermatitis, and itching",
+        "Supports digestive, urinary, analgesic and antiulcer effects—relieves colic, tumors, internal bleeding, urinary issues",
+        "Rich in flavonoids, tannins, glycosides, saponins, steroids, and tolerated in moderate doses; caution in pregnancy"
+    ],
+    "metadata": {
+        "species": "Saraca asoca / Saraca indica",
+        "common_names": ["Ashoka", "Sita Ashoka", "Asoka Tree", "Red Ashoka", "Hempushpa", "Anganaprīya", "Asogam", "Ashokamu"],
+        "family": "Caesalpiniaceae (or Fabaceae, subfamily Caesalpinioideae)",
+        "region": "Native to Indian subcontinent (India, Sri Lanka); found in tropical forests and sacred groves",
+        "source_urls": [
+        "https://www.1mg.com/ayurveda/ashoka-101",
+        "https://rishaayurveda.com/ashoka-plant-benefits-uses-home-remedies/",
+        "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-ashoka-tree/",
+        "https://www.netmeds.com/health-library/post/ashoka-saraca-indica-uses-benefits-indications-doshas-side-effects-and-precautions",
+        "https://www.lybrate.com/topic/ashoka-tree-uses-benefits-and-side-effects",
+        "https://sciencescholar.us/journal/index.php/ijhs/article/view/7262"
+        ]
+    }
+    },
+
+
 
 
     {
