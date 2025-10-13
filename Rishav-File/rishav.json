@@ -477,6 +477,34 @@
         ]
     }
     },
+    {
+    "image_path": "tulsi",
+    "captions": [
+        "Adaptogen herb that helps the body manage physical, chemical, and psychological stress",
+        "Supports metabolic health by helping regulate blood sugar, lipids, and blood pressure",
+        "Protects organs and tissues from chemical stress (pollutants, heavy metals) and physical stress",
+        "Used in respiratory and immune support: helps with cough, bronchitis, asthma, and microbial infections",
+        "Supports cognitive function, memory, mood balance, and alleviates anxiety / depression",
+        "Applied topically / orally for skin (acne, wounds) and oral health (gum disease, ulcers)",
+        "Contains compounds like eugenol, rosmarinic acid, ursolic acid, flavonoids contributing to its bioactivity"
+    ],
+    "metadata": {
+        "species": "Ocimum tenuiflorum (also Ocimum sanctum)",
+        "common_names": ["Tulsi", "Holy Basil", "Sacred Basil", "Tulasi", "Queen of Herbs", "Indian Holy Basil"],
+        "family": "Lamiaceae (mint family)",
+        "region": "Native to Indian subcontinent; cultivated widely across tropical and subtropical regions",
+        "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4296439/",
+        "https://www.careinsurance.com/blog/health-insurance-articles/remarkable-health-benefits-of-tulsi-leaves-you-must-know",
+        "https://ayurved.dpu.edu.in/blogs/benefits-of-tulsi-ayurveda",
+        "https://health.clevelandclinic.org/benefits-of-holy-basil",
+        "http://www.agritech.tnau.ac.in/horticulture/horti_medicinal%20crops_tulsi.html",
+        "https://www.healthline.com/health/food-nutrition/basil-benefits",
+        "https://www.dabur.com/ayurveda/ayurvedic-medicinal-plants/tulsi-benefits-and-medicinal-uses"
+        ]
+    }
+    },
+
 
 
     {
