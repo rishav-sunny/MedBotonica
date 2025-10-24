@@ -1,0 +1,99 @@
+[
+  {
+    "image_path": "Lemon",
+    "captions": [
+      "Lemon leaves are used in herbal teas and help improve digestion and refresh the body."
+    ],
+    "metadata": {
+      "species": "Citrus limon",
+      "common_name": "Lemon Leaf",
+      "family": "Rutaceae",
+      "region": "Native to Asia, widely cultivated in tropical and subtropical regions worldwide",
+      "source_urls": [
+        "https://www.healthbenefitstimes.com/lemon-leaf/",
+        "https://www.thespruceeats.com/lemon-leaves-5193113"
+      ]
+    }
+  },
+  {
+    "image_path": "Curry",
+    "captions": [
+      "Curry leaves are used in cooking and Ayurveda to improve digestion and support hair growth."
+    ],
+    "metadata": {
+      "species": "Murraya koenigii",
+      "common_name": "Curry Leaf",
+      "family": "Rutaceae",
+      "region": "India, Sri Lanka, Bangladesh, China",
+      "source_url": [
+        "https://www.webmd.com/diet/health-benefits-curry-leaf",
+        "https://pharmeasy.in/blog/ayurveda-uses-benefits-side-effects-of-curry-leaves/"
+      ]
+    }
+  },
+  {
+    "image_path": "Neem",
+    "captions": [
+      "Neem leaves are used to treat skin problems, improve immunity, and act as a natural insect repellent."
+    ],
+    "metadata": {
+      "species": "Azadirachta indica",
+      "common_name": "Neem",
+      "family": "Meliaceae",
+      "region": "South Asia, India",
+      "source_urls": [
+        "https://www.ncbi.nlm.nih.gov/books/NBK234637/",
+        "https://www.dabur.com/ayurveda/ayurvedic-medicinal-plants/neem",
+        "https://www.webmd.com/vitamins/ai/ingredientmono-577/neem#precautions",
+        "https://www.medicalnewstoday.com/articles/325048#benefits"
+      ]
+    }
+  },
+  {
+    "image_path": "Castor",
+    "captions": [
+      "Castor leaves and seeds are used to produce oil that helps with skin care and relieves joint pain."
+    ],
+    "metadata": {
+      "species": "Ricinus communis",
+      "common_name": "Castor",
+      "family": "Euphorbiaceae",
+      "region": "Africa, India",
+      "source_url": [
+        "https://www.ojs.pphouse.org/index.php/IJEP/article/download/4419/1882/3758",
+        "https://www.healthline.com/nutrition/castor-oil",
+        "https://share.google/dvrSwu9G0Rnywk4Cm"
+      ]
+    }
+  },
+  {
+    "image_path": "Aloevera",
+    "captions": [
+      "Aloe vera leaves contain gel that heals burns, hydrates skin, and improves digestion."
+    ],
+    "metadata": {
+      "species": "Aloe barbadensis miller",
+      "common_name": "Aloe Vera",
+      "family": "Asphodelaceae",
+      "region": "Africa, Asia, Europe, America, India",
+      "source_url": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC2763764/",
+        "https://en.wikipedia.org/wiki/Aloe_vera",
+        "https://share.google/Fyh1VWiZNUNncbeVg"
+      ]
+    }
+  },
+  {
+    "image_path": "MIX",
+    "captions": [
+      "photo of an object"
+    ],
+    "metadata": {
+      "species": "",
+      "common_name": "",
+      "family": "",
+      "region": "",
+      "source_url": []
+    }
+  }
+]
